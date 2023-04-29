@@ -1,16 +1,21 @@
-# menu_section
+# Criando um Menu de Seção Fixo no Topo em Flutter Web
 
-A new Flutter project.
+Este guia ensinará como criar um menu de seção fixo no topo em um aplicativo Flutter Web, permitindo que o usuário navegue para diferentes partes da tela ao clicar em um item do menu, de forma semelhante ao menu de âncora do HTML.
 
-## Getting Started
+## Passo 1: Configurando o projeto Flutter Web
 
-This project is a starting point for a Flutter application.
+Antes de começar, certifique-se de ter o Flutter instalado em sua máquina. Em seguida, crie um projeto Flutter Web executando o seguinte comando no terminal:
 
-A few resources to get you started if this is your first Flutter project:
+`flutter create nome_do_projeto`
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+A seguir, navegue até o diretório do projeto e inicie o aplicativo Flutter Web:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+`cd nome_do_projeto`
+
+`flutter run -d chrome`
+
+O código nesse repositório cria um menu de seção fixo no topo em um aplicativo Flutter Web que permitirá que o usuário navegue para diferentes partes da tela ao clicar em um item do menu, de forma semelhante ao menu de âncora do HTML.
+
+## Referências
+- [Flutter WEB - A forma correta de criar um menu de seção](https://www.youtube.com/watch?v=i4GDUULuzJ4&t=25s&ab_channel=RodrigoRahman)
+- [Flutter WEB - A forma correta de criar um menu de seção (Parte 2)](https://www.youtube.com/watch?v=ja1yVZ)
