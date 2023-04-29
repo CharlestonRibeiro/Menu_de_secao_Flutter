@@ -18,4 +18,4 @@ O código nesse repositório cria um menu de seção fixo no topo em um aplicati
 
 ## Referências
 - [Flutter WEB - A forma correta de criar um menu de seção](https://www.youtube.com/watch?v=i4GDUULuzJ4&t=25s&ab_channel=RodrigoRahman)
-- [Flutter WEB - A forma correta de criar um menu de seção (Parte 2)](https://www.youtube.com/watch?v=ja1yVZ)
+- [Flutter WEB - A forma correta de criar um menu de seção (Parte 2)](https://www.youtube.com/watch?v=ja1yVZm8zns&t=474s&ab_channel=RodrigoRahman)
